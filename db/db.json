@@ -1,37 +1,22 @@
 [
   {
-    "title": "555",
-    "text": "555",
-    "id": 1
-  },
-  {
-    "title": "666",
-    "text": "666",
-    "id": 2
-  },
-  {
-    "title": "777",
-    "text": "777",
-    "id": 3
-  },
-  {
-    "title": "888",
-    "text": "888",
-    "id": 4
-  },
-  {
-    "title": "999",
-    "text": "999",
-    "id": 5
-  },
-  {
     "title": "ewewe",
     "text": "ewewew",
-    "id": 6
+    "id": 5
   },
   {
     "title": "new day",
     "text": "old stuff",
+    "id": 6
+  },
+  {
+    "title": "i get up in the morning and ",
+    "text": "fdfdfdffdfd",
     "id": 7
+  },
+  {
+    "title": "this is the note i wrote",
+    "text": "everything about life",
+    "id": 9
   }
 ]
